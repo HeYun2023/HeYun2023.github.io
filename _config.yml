@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 幻云の博客
+title: 幻云の小站
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://heyun2023.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -94,10 +94,27 @@ include:
 exclude:
 ignore:
 
+# 扩展
 # Extensions
+## 插件：https://hexo.io/plugins/
 ## Plugins: https://hexo.io/plugins/
+## 主题：https://hexo.io/themes/
 ## Themes: https://hexo.io/themes/
 theme: fluid
+## 插件——hexo-generator-feed：https://github.com/hexojs/hexo-generator-feed
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 10
+  hub:
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: /img/Icon/logo.svg
+  autodiscovery: true
+  template:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

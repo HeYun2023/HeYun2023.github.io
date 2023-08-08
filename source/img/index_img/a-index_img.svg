@@ -1,0 +1,16 @@
+<svg width="1000.0000000000002" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <path stroke="null" d="m419.70408,216.36289l-65.57407,35.53259l-0.13115,70.81906l65.44292,35.28648l65.57407,-35.53259l0.13115,-70.81906l-65.44292,-35.28648zm30.36079,101.15251l-6.03281,3.29176l-6.09839,-3.38405l0,-24.39596l-36.72148,0l0,24.48826l-6.03281,3.29176l-6.09839,-3.38405l0,-60.60536l6.0656,-3.261l6.0656,3.32253l0,24.4575l36.72148,0l0,-24.48826l6.0656,-3.261l6.0656,3.32253l0,60.60536l0,-0.00001z" fill="#0E83CD" id="svg_2"/>
+  </g>
+  <text transform="matrix(2.31948 0 0 2.05326 -379.14 -290.405)" stroke="#000" font-style="normal" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_3" y="289.48105" x="376.48154" stroke-width="0" fill="#999999">Hexo</text>
+ </g>
+ <defs>
+  <pattern id="svg_10" width="50" height="50" patternUnits="userSpaceOnUse" patternTransform="matrix(0.64374178647995,1.7108060121536255,-1.1149927377700806,0.9877345561981201,-137.28402709960938,-292.3225404024124)">
+   <rect id="svg_6" width="50" height="50" fill="#EEE"/>
+   <rect id="svg_7" x="0" y="0" width="50" height="25" fill="#CCC"/>
+   <rect id="svg_8" x="0" y="25" width="50" height="25" fill="#FFF"/>
+  </pattern>
+ </defs>
+</svg>
