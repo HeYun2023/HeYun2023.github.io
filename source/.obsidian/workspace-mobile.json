@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "d2cbefc4295542e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f8feec51b244bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc37137204023a4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/Hello World——记我的Hexo安装过程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "deb0af6ac0b1aee5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "702150c122a64d15",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "60b5ce3fbfc1ae2c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2a880be1dd4d49dd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a6f09d1058d95739",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "88ab3b0f25747db3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d1d2c8e48c8afcf8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_posts/Hello World——记我的Hexo安装过程.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3de1c65d7eb6369b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_posts/Hello World——记我的Hexo安装过程.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2955382ceecabfd6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_posts/Hello World——记我的Hexo安装过程.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fc37137204023a4f",
+  "lastOpenFiles": [
+    "about/index.md",
+    "_posts/Hello World——记我的Hexo安装过程.md"
+  ]
+}

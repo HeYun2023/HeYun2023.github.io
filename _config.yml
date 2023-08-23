@@ -7,7 +7,7 @@ title: 幻云の小站
 subtitle: ''
 description: ''
 keywords:
-author: 
+author: 幻云
 language: zh-CN
 timezone: ''
 
@@ -104,9 +104,9 @@ theme: fluid
 ## 插件——hexo-generator-feed：https://github.com/hexojs/hexo-generator-feed
 feed:
   enable: true
-  type: atom
-  path: atom.xml
-  limit: 10
+  type: rss2
+  path: Rss2.xml
+  limit: 5
   hub:
   content: true
   content_limit: 140
