@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Hello World——记我的Hexo安装过程.md",
+                "file": "_posts/月报1——立冬惊雷.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/Hello World——记我的Hexo安装过程.md",
+            "file": "_posts/月报1——立冬惊雷.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/Hello World——记我的Hexo安装过程.md",
+            "file": "_posts/月报1——立冬惊雷.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/Hello World——记我的Hexo安装过程.md"
+            "file": "_posts/月报1——立冬惊雷.md"
           }
         }
       }
@@ -133,7 +133,8 @@
   },
   "active": "fc37137204023a4f",
   "lastOpenFiles": [
-    "about/index.md",
-    "_posts/Hello World——记我的Hexo安装过程.md"
+    "_posts/Hello World——记我的Hexo安装过程.md",
+    "_posts/月报1——立冬惊雷.md",
+    "about/index.md"
   ]
 }
